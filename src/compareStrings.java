@@ -3,7 +3,7 @@ import java.util.Arrays;
 /*
  * Code to compare 2 strings,
  * do they contain same characters
- * length of both strings can be difffernt
+ * length of both strings can be different
  */
 
 public class compareStrings 
